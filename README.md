@@ -29,6 +29,8 @@ sources and cross reference them, sort them and to make them available
 to the user.
 
 
+## Resources
+
 * https://developers.google.com/custom-search/json-api/v1/introduction
 * http://www.bing.com/developers/s/apibasics.html
 * https://datamarket.azure.com/dataset/5BA839F1-12CE-4CCE-BF57-A49D98D29A44
